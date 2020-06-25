@@ -1,0 +1,1 @@
+export const convertRupeesToPaise = price => ( price * 100 ).toFixed(0)
